@@ -1,13 +1,34 @@
 # Sun Terletsky-Tsruya
-**PhD Student in Dr. Michal Ramot's Lab, Department of Brain Sciences**
+**PhD Student in Dr. Michal Ramot’s Lab**  
+_Department of Brain Sciences_
 
 ---
 
 ## Hello!
 I’m a PhD student investigating how the human brain navigates and represents space.  
 My research focuses on:
-- Disentangling egocentric (self-centered) and allocentric (world-centered) spatial perception.
-- Using virtual reality (VR) tasks to explore how individuals encode and recall locations.
-- Employing neuroimaging techniques (fMRI) to reveal the neural networks underlying spatial cognition.
+
+- **Egocentric vs. Allocentric Spatial Perception**  
+  Disentangling self-centered and world-centered representations.
+- **Virtual Reality (VR) Experiments**  
+  Exploring how individuals encode and recall locations using auditory or visual cues.
+- **Neuroimaging Techniques (fMRI)**  
+  Revealing the neural networks underlying spatial cognition and memory.
 
 ---
+
+## Current Projects
+- **Sound Navigation in VR:** Testing pure egocentric encoding without visual cues.
+- **Perspective Taking / Spatial Orientation Tests:** Translating allocentric information to egocentric perspectives.
+
+---
+
+## Teaching & Assignments
+- **Python Course Repository:** This site also hosts my assignments.  
+  [Assignments Folder](https://github.com/sunterlet/python-course-assignments)
+
+---
+
+## Contact
+- **Email:** [sun.terletsky@weizmann.ac.il](mailto:sun.terletsky@weizmann.ac.il)
+- **GitHub:** [Sun Terletsky-Tsruya](https://github.com/sunterlet)
