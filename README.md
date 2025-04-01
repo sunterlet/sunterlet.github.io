@@ -23,7 +23,7 @@ My research focuses on:
 
 ---
 
-## Teaching & Assignments
+## Assignments
 - **Python Course Repository:** This site also hosts my assignments.  
   [Assignments Folder](https://github.com/sunterlet/python-course-assignments)
 
