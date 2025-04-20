@@ -1,15 +1,15 @@
 <!-- inline stylesheet for header accent + illustration -->
 <style>
   .site-header {
-    background: #f0f8ff;
-    border-left: 6px solid #007acc;
+    background: #16233f;              /* dark‑blue from schematic */
+    border-left: 6px solid #39ff14;   /* neon‑green accent */
     padding: 1rem 1.5rem;
     margin-bottom: 2rem;
   }
   .site-header h1,
   .site-header p {
     margin: 0;
-    color: #005289;
+    color: #fefefe;                   /* near‑white text */
   }
   .header-illustration {
     text-align: center;
@@ -19,19 +19,25 @@
     max-width: 300px;
     width: 100%;
     height: auto;
-    border: 2px solid #007acc;
+    border: 2px solid #39ff14;
     border-radius: 8px;
   }
   .header-illustration figcaption {
     font-size: 0.9rem;
-    color: #333;
+    color: #f5f5f5;
     margin-top: 0.5rem;
+  }
+  a, h2, h3 {
+    color: #39ff14;
+  }
+  hr {
+    border-color: #39ff14;
   }
 </style>
 
 <div class="site-header">
 # Sun Terletsky‑Tsruya  
-**PhD Student in Dr. Michal Ramot’s Lab**  
+**PhD Student in Dr. Michal Ramot’s Lab**  
 _Department of Brain Sciences_
 </div>
 
@@ -39,12 +45,6 @@ _Department of Brain Sciences_
   <img src="assets/img/vr-navigation-schematic.png" alt="VR navigation schematic">
   <figcaption>A schematic of our VR navigation task</figcaption>
 </figure>
-
----
-
-# Sun Terletsky‑Tsruya
-**PhD Student in Dr. Michal Ramot’s Lab**  
-_Department of Brain Sciences_
 
 ---
 
